@@ -6,7 +6,7 @@ DOMAIN- DATA ANALYTICS
 SALES DATA ANALYSIS WITH PYTHON
 
 OVERVIEW of TASK 1
-As part of my internship project, I undertook the task of analyzing a large dataset of sales using Python.
+- As part of my internship project, I undertook the task of analyzing a large dataset of sales using Python.
 
 TOOLS AND TECHNOLOGIES USED
 Python 
