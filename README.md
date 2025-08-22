@@ -1,12 +1,6 @@
-# Brainwave_Matrix_Intern-Task-1
 
-### COMPANY- Brainwave Matrix Solutions
-### NAME- Ansh Gupta
-### DOMAIN- DATA ANALYTICS
 ### SALES DATA ANALYSIS WITH PYTHON
 
-### OVERVIEW of TASK 1
-- As part of my internship project, I undertook the task of analyzing a large dataset of sales using Python.
 
 ### TOOLS AND TECHNOLOGIES USED
 - Python 
